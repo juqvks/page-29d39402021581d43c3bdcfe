@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.jinggaocelue.cn/sitemap.xml
